@@ -1,27 +1,9 @@
-## Welcome to GitHub Pages
+## Next Drum Circle
 
 
+### APRIL 27, 2024  | KETCHUM, IDAHO
+### 1:30PM
+### 571 2nd St E, Ketchum, ID 83340  
+### Inside the Art Gallery
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Bing Maps of Location: https://www.bing.com/maps?osid=aba5f5bc-67de-4ea6-a6c7-64217589df64&cp=43.681835~-114.361506&lvl=21.267708&pi=0&v=2&sV=2&form=S00027
