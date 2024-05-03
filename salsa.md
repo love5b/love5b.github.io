@@ -1,6 +1,3 @@
-![image1-goal](https://github.com/love5b/love5b.github.io/assets/48141263/e44323f2-4ba0-4155-96eb-f26da0bc081b)
-
-*
 <h2>Comprehensive Plan for Salsa Dance Class Fundraiser with The Advocates</h2>
 
 <h3>Initial Contact:</h3>
