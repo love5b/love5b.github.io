@@ -1,7 +1,7 @@
 <h2>Comprehensive Plan for Salsa Dance Class Fundraiser with The Advocates</h2>
 
 <h3>Initial Contact:</h3>
-**Person X's Responsibilities: **Initiate contact with The Advocates' Development Director and Executive Director, leveraging an existing good rapport to discuss the fundraiser concept and gain their preliminary support.
+Person X's Responsibilities: Initiate contact with The Advocates' Development Director and Executive Director, leveraging an existing good rapport to discuss the fundraiser concept and gain their preliminary support.
 
 
 <h3>Concept Pitch:</h3>
