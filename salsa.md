@@ -1,15 +1,15 @@
-<h2>**Initial Contact:**</h2>
-  **Person X's Responsibilities: Initiate contact with The Advocates' Development Director and Executive Director, leveraging an existing good rapport to discuss the fundraiser concept and gain their preliminary support.
+<h2>Comprehensive Plan for Salsa Dance Class Fundraiser with The Advocates</h2>
+
+<h3>Initial Contact:</h3>
+**Person X's Responsibilities: **Initiate contact with The Advocates' Development Director and Executive Director, leveraging an existing good rapport to discuss the fundraiser concept and gain their preliminary support.
 
 
-**Concept Pitch:**
-  **Person Y's Task: Reach out to Sarah de la Torre to introduce the fundraising idea and discuss the potential for her involvement or support, given her role in the community and relevant expertise.
+<h3>Concept Pitch:</h3>
+**Person Y's Task:** Reach out to Sarah de la Torre to introduce the fundraising idea and discuss the potential for her involvement or support, given her role in the community and relevant expertise.
 
 
-**Detailed Planning Meeting:**
-Meeting Setup: Following interest from The Advocates and Sarah de la Torre, Person X and Person Y will arrange a detailed planning meeting with both parties.
-
-
+<h3>Detailed Planning Meeting:</h3>
+**Meeting Setup:** Following interest from The Advocates and Sarah de la Torre, Person X and Person Y will arrange a detailed planning meeting with both parties.
 **Discussion Points:**
 Partnership Structure: Establish clear roles and responsibilities for each party involved.
 Fundraising Goals: Set concrete financial targets to ensure the event’s success aligns with the needs of The Advocates.
