@@ -12,8 +12,8 @@ Person Y's Task: Reach out to Sarah de la Torre to introduce the fundraising ide
 <h4>Meeting Setup:</h4> Following interest from The Advocates and Sarah de la Torre, Person X and Person Y will arrange a detailed planning meeting with both parties.
 
 <h4>Discussion Points:</h4>
-<h4>Partnership Structure:</h4> Establish clear roles and responsibilities for each party involved.
-<h4>Fundraising Goals:</h4> Set concrete financial targets to ensure the event’s success aligns with the needs of The Advocates.
+&emsp;&emsp;&emsp;<h4>Partnership Structure:</h4> Establish clear roles and responsibilities for each party involved.
+&emsp;&emsp;&emsp;<h4>Fundraising Goals:</h4> Set concrete financial targets to ensure the event’s success aligns with the needs of The Advocates.
 <h4>Marketing Responsibilities:</h4> Determine who will handle various marketing tasks, including digital promotions and physical advertising.
 <h4>Venue Booking:</h4> Seek The Advocates' assistance in securing an appropriate venue either free of cost or at a discounted rate.
 <h4>Secure Sponsorships:</h4>Discuss whether to pursue sponsorships from local businesses for financial support or services in exchange for promotional benefits.
