@@ -32,7 +32,7 @@ Outline strategies for interaction and problem-solving to address any issues dur
 
 <h3>Dance Class Preparation:</h3>
 <h4>Class Walk-Through:</h4>
-<h4>Session Planning:</h4> Person X and Person Y will collaboratively design the class structure, breaking it down into three segments that cater to different levels of dance proficiency.<br>
+<h4>Session Planning:</h4> Person X and Person Y will collaboratively design the class structure, breaking it down into three phases that will evolve and build from the previous phase.<br>
 <h4>Communication and Atmosphere:</h4> Focus on methods to communicate the class’s intentions clearly and create an atmosphere that balances safety with the vulnerability needed for participants to express themselves authentically.<br>
 <h4>Music Selection:</h4> Choose a variety of salsa music that enhances the dance experience while accommodating the diverse tastes of participants.
 
