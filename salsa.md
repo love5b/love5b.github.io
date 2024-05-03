@@ -1,3 +1,8 @@
+<h2>Dance for a Cause: Supporting Our Sexual Assault Response Team</h2>
+The primary purpose of the salsa dance class fundraiser is to generate essential financial support for the Sexual Assault Response Team's needs within the community. This initiative aims to cover the expenses related to training and compensating specialized nurses and a part-time program manager essential for implementing a localized and immediate response to sexual assault cases. By establishing this critical infrastructure, we seek to enhance the availability and quality of immediate medical care and support for survivors, reducing the need for them to travel long distances for examinations, thereby minimizing re-traumatization and supporting more efficient and effective legal proceedings. This fundraiser not only aims to raise the necessary funds but also to increase awareness and community engagement in supporting sexual assault survivors.
+
+<hr />
+
 <h2>Comprehensive Plan for Salsa Dance Class Fundraiser with The Advocates</h2>
 
 <h3>Initial Contact:</h3>
