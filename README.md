@@ -7,7 +7,7 @@
 ### KETCHUM
 
 Map of Location: [[link](https://maps.app.goo.gl/6qKkb9Pyj5MsU4dAA)]
-Bring your drum! Free event
+Bring your drum and chair! Free event
 
 
 
