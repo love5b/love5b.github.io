@@ -1,12 +1,12 @@
 ## Next Drum Circle
 
 
-### MAY 8, 2024  | KETCHUM, IDAHO
+### MAY 18, 2024  | KETCHUM, IDAHO
 ### 5:30PM
-### 571 2nd St E, Ketchum, ID 83340  
-### Inside the Art Gallery
+### FOREST SERVICE PARK 
+### KETCHUM
 
-Map of Location: [[link](https://tinyurl.com/4bce9j57)]
+Map of Location: [[link](https://maps.app.goo.gl/6qKkb9Pyj5MsU4dAA)]
 Bring your drum! Free event
 
 
